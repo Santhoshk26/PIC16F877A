@@ -1,7 +1,5 @@
 
 #include <xc.h>
-#include <pic.h>
-
 //#define _XTAL_FREQ 400000
 void main()
 {
